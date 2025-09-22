@@ -1,11 +1,11 @@
-### Olá, me chamo Matheus e atualmente estou no 8º período de Ciência da Computação. 👋
+### Olá, me chamo Matheus e atualmente estou me Especializando em Desenvolvimento Fullstack. 👋
 
 
 
-- 🔭 Atualmente estudando na Universidade Federal de Alagoas - Brasil
-- 📚 No momento estou estudando JavaScript, HTML5, CSS, Python, React, Angular
-- 💻 Tenho conhecimentos em Java, C, C++, OpenGL, HTML5, CSS, SCSS, JS, Python, React, Vue.js, Angular, MIPS, Git, Django
-- 👯 No momento procuro colaborar em artigos e pesquisas.
+- 🔭Sou **Bacharel** em **Ciência da Computação** com Ênfase em SI pela Universidade Federal de Alagoas - Brasil
+- 📚 No momento estou estudando JavaScript, HTML5, CSS, Python, React, Angular, Webpack, SASS, 
+- 💻 Tenho conhecimentos em Java, HTML5, CSS, SCSS, JS, Python, React, Vue.js, Angular, MIPS, Git, Django, C, C++, OpenGL
+- 👯 No momento procuro vagas para programador **Júnior** ou programas de Trainee para aperfeiçoar minhas habilidades.
 
 ## Tecnologias e Ferramentas 🛠 
 
